@@ -96,7 +96,7 @@ header label{
 .home .image img{
     width: 40vw;
     animation: float 3s linear infinite; 
-    border-radius: 50% 80% / 70% 10%;
+    border-radius: 50% 80% / 70% 10%;box-shadow: 2rem  2rem 1rem rgba(0, 0, 0, .5);
 }
 
 
